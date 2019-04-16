@@ -30,6 +30,6 @@ function iLoveTheBeatles(num) {
   do {
 //    return "I love the Beatles!";
     incrementVariable()
-  } while (i < parseInt(num)-1);
+  } while (i < num);
 } return "I love the Beatles!";
 }
