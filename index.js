@@ -33,15 +33,3 @@ function iLoveTheBeatles(num) {
   } while (i < num);
 } return "I love the Beatles!";
 }
-
-function iLoveTheBeatles(num) {
-  let BeatleLove = [];
-  let i = 0;
-  function incrementVariable() {
-    i = i++;
-  do {
-    return "I love the Beatles!";
-    incrementVariable()
-  } while (i < num);
-}
-}
