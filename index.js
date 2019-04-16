@@ -28,7 +28,8 @@ function iLoveTheBeatles(num) {
   function incrementVariable() {
     i = i++;
   do {
-    return "I love the Beatles!";
+//    return "I love the Beatles!";
     incrementVariable()
   } while (i < parseInt(num)-1);
-}}
+} return "I love the Beatles!";
+}
