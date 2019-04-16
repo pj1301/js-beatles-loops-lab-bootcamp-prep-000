@@ -19,5 +19,5 @@ function johnLennonFacts(facts) {
   let i = 0;
   while (i < 4) {
       factsArray.push(`${facts[i]}!!!`)
-  }
+  } return factsArray
 }
