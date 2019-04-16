@@ -15,8 +15,8 @@ const facts = [
 ]
 
 function johnLennonFacts(facts) {
-  var factsArray = [];
-  var i = 0
+  let factsArray = [];
+  let i = 0;
   while (i < facts.length) {
       return facts[i] + !!!
   }
