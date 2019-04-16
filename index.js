@@ -24,11 +24,11 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(num) {
   let BeatleLove = [];
-  let i = 0;
+  let i = 1;
   function incrementVariable() {
     i = i++;
   do {
     return "I love the Beatles!";
     incrementVariable()
-  } while (i < num-1);
+  } while (i < num);
 }}
