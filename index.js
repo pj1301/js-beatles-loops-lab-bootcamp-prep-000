@@ -22,9 +22,9 @@ function johnLennonFacts(facts) {
   } return factsArray
 }
 
-function iLoveTheBeatles() {
+function iLoveTheBeatles(num) {
   let BeatleLove = [];
   do {
     return "I love the Beatles!";
-  } while (i < 15);
+  } while (i < num);
 //}
