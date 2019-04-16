@@ -32,5 +32,3 @@ function iLoveTheBeatles(num) {
    } while (i < num);
 } return "I love the Beatles!";
 }
-
-function iLoveTheBeatles(num) {
