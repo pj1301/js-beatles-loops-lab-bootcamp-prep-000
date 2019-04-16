@@ -6,3 +6,8 @@ function theBeatlesPlay(musicians, instruments) {
     BeatlesArray.push(`${musicians[i]} plays ${instruments[i]}`); //link the lists to the iteration - you have to use ${} in order to ensure you don't output "musicians plays instruments"
   } return BeatlesArray; //return function
 }
+
+function johnLennonFacts(facts) {
+  var factsArray [];
+  
+}
