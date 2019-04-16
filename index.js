@@ -24,6 +24,9 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(num) {
   let BeatleLove = [];
+  let i = 0;
+  function incrementVariable() {
+    i = i + 1;
   do {
     return "I love the Beatles!";
   } while (i < num);
