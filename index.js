@@ -30,5 +30,5 @@ function iLoveTheBeatles(num) {
   do {
     return "I love the Beatles!";
     incrementVariable()
-  } while (i < num);
+  } while (i < num-1);
 }}
