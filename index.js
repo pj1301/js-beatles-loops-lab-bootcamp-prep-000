@@ -26,7 +26,7 @@ function iLoveTheBeatles(num) {
   let BeatleLove = [];
   let i = 0;
   function incrementVariable() {
-    i += 1;
+    i = i++;
   do {
 //    return "I love the Beatles!";
     incrementVariable()
