@@ -1,6 +1,6 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments) {
-  var BeatlesArray [];
+  let BeatlesArray [];
   for (let i = 0; i < 4; i++) {
     BeatlesArray[i] = {
       musicians + i + 1,
