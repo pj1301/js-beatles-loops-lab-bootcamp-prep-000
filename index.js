@@ -26,7 +26,7 @@ function iLoveTheBeatles(num) {
   let BeatleLove = [];
   let i = 0;
   function incrementVariable() {
-    i = i++;
+    i = i++; }
   do {
     incrementVariable()
    } while (i < num);
