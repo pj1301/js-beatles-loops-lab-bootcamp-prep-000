@@ -22,6 +22,6 @@ function johnLennonFacts(facts) {
   } return factsArray
 }
 
-function iLoveTheBeatles() {
-  BeatleLove =
-}
+//function iLoveTheBeatles() {
+//  BeatleLove =
+//}
